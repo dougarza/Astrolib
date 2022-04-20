@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Yb34zrtDGV+ou2SLLLXImEfpX1GSxdSf77DKOtes7/C2A/RzJKiolKE18u46jWCgwVkgAMRJmxhqz7hi2wpqg==",
+  "success": true,
+  "projectFilePath": "/home/douglas/Code/CSharpProjects/IODproject/IODproject/IODproject.csproj",
+  "expectedPackageFiles": [
+    "/home/douglas/.nuget/packages/mathnet.numerics/4.15.0/mathnet.numerics.4.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
